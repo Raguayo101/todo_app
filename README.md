@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Raguayo101/todo_app)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Raguayo101/todo_app](https://github.com/Raguayo101/todo_app)
+- Live Site URL: [https://idyllic-horse-1e1420.netlify.app/](https://idyllic-horse-1e1420.netlify.app/)
 
 ## My process
 
